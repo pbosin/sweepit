@@ -1,0 +1,6 @@
+{
+  "css": true,
+  "cssFolder": "css",
+  "cssExtension": "scss",
+  "testing": true
+}

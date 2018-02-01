@@ -1,0 +1,36 @@
+.game-status {
+  margin-left: auto;
+  margin-right: auto;
+  height: 33px;
+  border: 1px solid #777777;
+  border-bottom: none;
+  background-color: lightcyan;
+}
+.level0 {
+  width: 181px;
+}
+.level1 {
+  width: 321px;
+}
+.level2 {
+  width: 601px;
+}
+.mines-found {
+  display: inline-block;
+  margin: 5px 10px;
+  border: 1px solid #777777;
+  background-color: white;
+  font-size: 14px;
+  width: 40px;
+  text-align: center;
+}
+.timer {
+  float: right;
+  display: inline-block;
+  margin: 5px 10px;
+  border: 1px solid #777777;
+  background-color: white;
+  font-size: 14px;
+  width: 40px;
+  text-align: center;
+}

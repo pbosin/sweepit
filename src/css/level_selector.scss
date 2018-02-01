@@ -1,0 +1,21 @@
+.level-selector {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -200px;
+  padding: 0 15px;
+  background-color: #F5F8FA;
+  border: 2px solid lightgray;
+  z-index: 2;
+  div {
+    width: 100%;
+    text-align: center;
+    margin: 15px auto 0 auto;
+    font-size: 18px;
+  }
+}
+.btn.btn-sm.btn-info {
+  margin: 20px 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
