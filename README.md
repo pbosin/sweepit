@@ -12,4 +12,7 @@ TODO: fix test runner.
 
 ## Mikey Generated Project (see http://npm.taobao.org/package/mikey)
 ### Running
+Run ```npm install``` to generate necessary node_modules
+
 Run ```npm start``` and open ```localhost:8080``` in your browser.
+
